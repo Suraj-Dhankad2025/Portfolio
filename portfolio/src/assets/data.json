@@ -1,0 +1,33 @@
+{
+    "projects": [
+      {
+        "date": "07/11/2022",
+        "title": "Startup Landing Page",
+        "description": "Landing site for tech startup giving information about the startup",
+        "url": "https://reactone-nine.vercel.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+      {
+        "date": "08/02/2023",
+        "title": "XCrypto",
+        "description": "Website made to cheak real time fluctuation in crypto market using an API call.",
+        "url": "https://react-crypto-app-five-kappa.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+      {
+        "date": "17/02/2023",
+        "title": "Notes Keeper",
+        "description": "React based website use to keep notes which are stored in the database with user authentication and login",
+        "url": "https://react-cart-eosin.vercel.app",
+        "imgSrc": "https://images.pexels.com/photos/5053742/pexels-photo-5053742.jpeg?auto=compress&cs=tinysrgb&w=800"
+      },
+      {
+        "date": "20/02/2023",
+        "title": "PORTFOLIO",
+        "description": "All the info about are me and my projects are provided here. Also the github and the linked profile link", 
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
